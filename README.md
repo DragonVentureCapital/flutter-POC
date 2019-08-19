@@ -8,7 +8,7 @@
 **Master**: [![Build status](https://build.appcenter.ms/v0.1/apps/852d4f15-a533-4033-b6d4-dacd91d8c72b/branches/master/badge)](https://appcenter.ms)
 
 ## Setup
-Install Flutter in your machine:[Mac OS](https://flutter.dev/docs/get-started/install/macos)
+Install Flutter in your machine: [Mac OS](https://flutter.dev/docs/get-started/install/macos)
 
 POC using flutter and Dart, to validate CI/CD, Unit Tests, UI Tests, Build Modes
 
