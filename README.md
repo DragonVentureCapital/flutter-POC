@@ -9,6 +9,7 @@
 
 ## Setup
 Install Flutter in your machine: [Mac OS](https://flutter.dev/docs/get-started/install/macos)
+                                 [Windows](https://flutter.dev/docs/get-started/install/windows)
 
 POC using flutter and Dart, to validate CI/CD, Unit Tests, UI Tests, Build Modes
 
