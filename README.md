@@ -1,18 +1,16 @@
-# flutter-POC
+# test_build_modes
 
-### Tests:
-### iOS:
-**Master**: [![Build status](https://build.appcenter.ms/v0.1/apps/42e5dc94-c8b1-43d5-b464-f8b525271a33/branches/master/badge)](https://appcenter.ms) 
+A new Flutter project.
 
-### Android:
-**Master**: [![Build status](https://build.appcenter.ms/v0.1/apps/852d4f15-a533-4033-b6d4-dacd91d8c72b/branches/master/badge)](https://appcenter.ms)
+## Getting Started
 
-## Setup
-Install Flutter in your machine: [Mac OS](https://flutter.dev/docs/get-started/install/macos)
-                                 [Windows](https://flutter.dev/docs/get-started/install/windows)
+This project is a starting point for a Flutter application.
 
-POC using flutter and Dart, to validate CI/CD, Unit Tests, UI Tests, Build Modes
+A few resources to get you started if this is your first Flutter project:
 
-## Autores
-* [Marcelo Garcia](https://github.com/sagarcia31)
-* [Fabricio Ferreira](https://github.com/Tiala)
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
