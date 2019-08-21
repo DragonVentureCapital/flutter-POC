@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9980e50-089a-4e8f-be7d-eab09df07f60" name="Default Changelist" comment="" />
+    <list default="true" id="b9980e50-089a-4e8f-be7d-eab09df07f60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcuserdata/admin.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcuserdata/admin.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

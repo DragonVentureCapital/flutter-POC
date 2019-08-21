@@ -4,10 +4,10 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AppCenter.xcscheme</key>
+		<key>AppCenter 2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
@@ -16,17 +16,17 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
-		<key>Flutter.xcscheme</key>
+		<key>Flutter.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
-		<key>Pods-Runner.xcscheme</key>
+		<key>Pods-Runner.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
@@ -35,17 +35,17 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>appcenter_analytics.xcscheme</key>
+		<key>appcenter_analytics.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>appcenter_crashes.xcscheme</key>
+		<key>appcenter_crashes.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
