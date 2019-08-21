@@ -1,0 +1,29 @@
+{
+  "name": "appcenter",
+  "version": "0.0.1",
+  "summary": "A new flutter plugin project.",
+  "description": "A new flutter plugin project.",
+  "homepage": "http://github.com/aloisdeniel/flutter_plugin_appcenter",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Aloïs Deniel": "alois.deniel@outlook.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "AppCenter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

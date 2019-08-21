@@ -1,6 +1,10 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
-    <CLASSES />
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/appcenter_crashes-0.2.1" />
+      <root url="file://$PROJECT_DIR$/../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/appcenter_analytics-0.2.1" />
+      <root url="file://$PROJECT_DIR$/../flutter/flutter/.pub-cache/hosted/pub.dartlang.org/appcenter-0.2.1" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
