@@ -2,7 +2,7 @@
 
 ### Tests:
 ### iOS:
-**Master**: [![Build status](https://build.appcenter.ms/v0.1/apps/42e5dc94-c8b1-43d5-b464-f8b525271a33/branches/master/badge)](https://appcenter.ms) 
+**Master**: [![Build Status](https://app.bitrise.io/app/5dcbf29b993ee558/status.svg?token=xYWMENLPgANWfnpFxVy0VQ&branch=master)](https://app.bitrise.io/app/5dcbf29b993ee558)
 
 ### Android:
 **Master**: [![Build status](https://build.appcenter.ms/v0.1/apps/852d4f15-a533-4033-b6d4-dacd91d8c72b/branches/master/badge)](https://appcenter.ms)
