@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/appcenter_crashes/ios/Classes/AppcenterCrashesPlugin.h

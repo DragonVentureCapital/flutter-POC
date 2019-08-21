@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/appcenter_analytics/ios/Classes/AppcenterAnalyticsPlugin.h

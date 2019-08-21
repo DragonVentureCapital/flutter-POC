@@ -1,0 +1,10 @@
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/../.symlinks/flutter/ios" "${PODS_ROOT}/AppCenter/AppCenter-SDK-Apple/iOS"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/appcenter" "${PODS_ROOT}/Headers/Public/appcenter_analytics" "${PODS_ROOT}/Headers/Public/appcenter_crashes"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/appcenter" "${PODS_CONFIGURATION_BUILD_DIR}/appcenter_analytics" "${PODS_CONFIGURATION_BUILD_DIR}/appcenter_crashes"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"appcenter" -l"appcenter_analytics" -l"appcenter_crashes" -l"c++" -l"sqlite3" -l"z" -framework "AppCenter" -framework "AppCenterAnalytics" -framework "AppCenterCrashes" -framework "CoreTelephony" -framework "Flutter" -framework "Foundation" -framework "SystemConfiguration" -framework "UIKit"
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods
